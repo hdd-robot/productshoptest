@@ -1,5 +1,7 @@
 # productshoptest
 
+Projet de développement web IT1 
+
 ## Project setup
 ```
 npm install
